@@ -468,6 +468,7 @@ function Get-Theme {
 # Set the theme
 
 Get-Theme
+Clear-Host
 
 # Install and Setup zoxide
 
