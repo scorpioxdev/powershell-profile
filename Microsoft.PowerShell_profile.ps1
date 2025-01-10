@@ -61,7 +61,6 @@ $requiredModules = @(
     'Terminal-Icons',
     'PSReadLine',
     'PSScriptAnalyzer',
-    'oh-my-posh',
     'BurntToast'
 )
 
