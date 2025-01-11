@@ -332,7 +332,7 @@ function ll {
 }
 
 # Quick Access to System Information
-function sysinfo { Get-ComputerInfo }
+function sysinfo { fastfetch }
 
 # Networking Utilities
 function flushdns {
